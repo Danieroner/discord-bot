@@ -1,6 +1,6 @@
 # Discord Bot Scaffold
 
-##### **Scaffold to start a small discord bot**
+#### **Scaffold to start a small discord bot**
 
 ![Discord Logo](https://cdn-images-1.medium.com/max/230/1*OoXboCzk0gYvTNwNnV4S9A@2x.png)
 
